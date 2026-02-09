@@ -37,4 +37,11 @@ def apply_blur():
     cap.release()
     cv2.destroyAllWindows()
 
+fghl;'
+jhgcfghjkl;'
+';lkjhgfghjkl;'
+;lkjhgghjkl'
+;lkjhgghjk
+';lkjhgvghjkl;'
+';lkjhgghjkl;'
 
