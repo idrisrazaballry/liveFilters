@@ -38,10 +38,3 @@ def apply_blur():
     cv2.destroyAllWindows()
 
 
-';lkjhgvghjkl;'
-kjhgfcfghpoihgffg
-;lkjhgghjk
-';lkjhgghjkl;'
-
-
-
