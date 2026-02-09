@@ -39,6 +39,9 @@ def apply_blur():
 
 
 ';lkjhgvghjkl;'
+kjhgfcfghpoihgffg
+;lkjhgghjk
 ';lkjhgghjkl;'
+
 
 
