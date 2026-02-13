@@ -36,5 +36,3 @@ def apply_blur():
     # Release the camera and destroy windows
     cap.release()
     cv2.destroyAllWindows()
-
-
