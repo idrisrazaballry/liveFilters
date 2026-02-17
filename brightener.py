@@ -61,10 +61,5 @@ def apply_brighten():
     cv2.destroyAllWindows()
 
 dfghjkl;'
-';lkjhgfdfgh
-';lkjhgfghjkl;'
 
-
-
-   
 
