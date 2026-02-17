@@ -60,6 +60,4 @@ def apply_brighten():
     cap.release()
     cv2.destroyAllWindows()
 
-dfghjkl;'
-
 
