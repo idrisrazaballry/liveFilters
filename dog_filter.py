@@ -99,11 +99,6 @@ def apply_dogfilter(frame):
         frame[y1_clip:y2_clip, x1_clip:x2_clip] = blended.astype(np.uint8)
              
         return frame
-
-    asdfgh
-    jhgfdsa
-    sdfghj
-    jhgfds
         
     except Exception as e:
         # print(f" Dog Filter Error: {e}") # Uncomment for debugging
