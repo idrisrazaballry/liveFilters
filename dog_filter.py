@@ -25,7 +25,7 @@ def apply_dogfilter(frame):
         
         # Check for 4-channel image (BGRA)
         if dog is None or dog.shape[2] < 4:
-            print(f"❌ Dog Filter: Image not found or is not a 4-channel transparent PNG.")
+            print(f" Dog Filter: Image not found or is not a 4-channel transparent PNG.")
             return frame
         
         rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
@@ -101,5 +101,5 @@ def apply_dogfilter(frame):
         return frame
         
     except Exception as e:
-        # print(f"🐶 Dog Filter Error: {e}") # Uncomment for debugging
+        # print(f" Dog Filter Error: {e}") # Uncomment for debugging
         return frame
